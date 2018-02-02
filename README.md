@@ -10,8 +10,10 @@ Get familiar with the space, and the different projects out there.
   - [r/cryptocurrency](https://reddit.com/r/cryptocurrency)
 
 ### Basic Tools
-- [CoinMarketCap](https://coinmarketcap.com/)
-- [Binance](https://www.binance.com/?ref=12371191)
+- [CoinMarketCap](https://coinmarketcap.com/) for keeping track of market caps and prices
+- [Binance](https://www.binance.com/?ref=12371191) for exchanging from crypto to crypto
+- [Coinbase](https://www.coinbase.com/join/53874a708d9c072d95000035) for going from [fiat](https://www.investopedia.com/terms/f/fiatmoney.asp) to crypto
+- [LocalBitcoins](https://localbitcoins.com/) for going from fiat to crypto, privately
 
 ### Miscellaneous
 - Price vs Market Cap
