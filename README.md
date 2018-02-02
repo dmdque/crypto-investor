@@ -25,9 +25,13 @@ Get familiar with the space, and the different projects out there.
 - ERC20 Tokens
   - ERC20 Tokens are a standard for tokens built on top of the Ethereum blockchain.
   - Many of the top 100 crypto projects by market cap are ERC20 tokens.
-  - You should always be aware if your whitepaper has its own blockchain vs leveraging Ethereum's blockchain
+  - You should always be aware if your investment has its own blockchain vs leveraging Ethereum's blockchain
   - Most ERC20 tokens are utility tokens
-
+- Whitepapers
+  - Since Bitcoin, the tradition is to have an in-depth explainer of the project's technology in an academic-style whitepaper
+  - Quality of whitepapers have fallen from pseudo-academic grade to business brochure
+- General Strategy
+  - Look at landing page, team, whitepaper, funding strategy
 
 ## Technical Analysis (TA)
 ### TA Readings
@@ -40,3 +44,6 @@ Get familiar with the space, and the different projects out there.
 
 ## Passive Income
 - https://medium.com/@demluo/putting-your-crypto-to-work-earning-passive-income-bf247e46c87d
+
+## Initial Coin Offerings (ICOs)
+TBD
